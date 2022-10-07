@@ -1,0 +1,23 @@
+main.c
+stm8_interrupt_vector.c
+stm8s_adc1.c
+stm8s_clk.c
+stm8s_exti.c
+stm8s_flash.c
+stm8s_gpio.c
+stm8s_it.c
+stm8s_tim1.c
+stm8s_tim4.c
+stm8s_uart1.c
+stm8s.h
+stm8s_adc1.h
+stm8s_clk.h
+stm8s_conf.h
+stm8s_exti.h
+stm8s_flash.h
+stm8s_gpio.h
+stm8s_it.h
+stm8s_tim1.h
+stm8s_tim4.h
+stm8s_uart1.h
+c:\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\modsl0.h
