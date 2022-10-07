@@ -2,7 +2,7 @@
  * 
  * Copyright (c) 2002-2005 STMicroelectronics
  */
-
+/*Author: Andrii Androsovych**/
 #include "stm8s.h"
 #include "stm8s_flash.h"
 
