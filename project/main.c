@@ -3,6 +3,7 @@
  * Copyright (c) 2002-2005 STMicroelectronics
  */
 /*Author: Andrii Androsovych**/
+/**  video:  https://youtu.be/rt0C7h7i5cs  */
 #include "stm8s.h"
 #include "stm8s_flash.h"
 
